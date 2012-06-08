@@ -1,2 +1,1 @@
-ips
-===
+IPS Incident ist ein Incident Management für IP-Symcon
